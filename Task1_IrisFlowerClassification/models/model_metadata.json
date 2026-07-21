@@ -1,0 +1,16 @@
+{
+    "best_model_name": "Support Vector Machine",
+    "test_accuracy": 0.9666666666666667,
+    "cv_mean_accuracy": 0.9659420289855072,
+    "feature_columns": [
+        "sepal_length_cm",
+        "sepal_width_cm",
+        "petal_length_cm",
+        "petal_width_cm"
+    ],
+    "target_classes": [
+        "setosa",
+        "versicolor",
+        "virginica"
+    ]
+}
