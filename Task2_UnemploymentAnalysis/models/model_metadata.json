@@ -1,0 +1,15 @@
+{
+    "best_model_name": "Random Forest",
+    "r2_score": 0.7032823296721182,
+    "mae": 3.4207311768682054,
+    "rmse": 5.0603272591649935,
+    "cv_mean_r2": 0.6739316710203912,
+    "feature_columns": [
+        "labour_participation_rate",
+        "month",
+        "year",
+        "is_lockdown_period",
+        "state_avg_unemployment"
+    ],
+    "target_column": "unemployment_rate"
+}
